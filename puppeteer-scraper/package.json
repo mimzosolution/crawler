@@ -6,7 +6,7 @@
   "dependencies": {
     "@apify/scraper-tools": "^0.1.2",
     "apify": "^0.15.3",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@types/fs-extra": "^5.0.4",
