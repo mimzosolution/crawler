@@ -6,7 +6,7 @@
 	"dependencies": {
 		"@apify/scraper-tools": "^0.1.2",
 		"apify": "^0.15.3",
-		"underscore": "^1.9.1"
+		"underscore": "^1.12.1"
 	},
 	"devDependencies": {
 		"chai": "^4.2.0",
